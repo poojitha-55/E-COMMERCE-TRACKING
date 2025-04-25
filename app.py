@@ -12,7 +12,7 @@ import json
 
 # API keys
 API_KEY = "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"  # Groq API Key
-SLACK_WEBHOOK = "https://hooks.slack.com/services/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"  # Slack webhook URL
+SLACK_WEBHOOK = "https://hooks.slack.com/services/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"  # Slack webhook URL
 # Streamlit app setup
 st.set_page_config(layout="wide")
 # Create two columns
