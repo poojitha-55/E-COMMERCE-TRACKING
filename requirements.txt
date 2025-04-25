@@ -8,3 +8,5 @@ statsmodels
 selenium
 webdriver-manager
 transformers
+torch
+
